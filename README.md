@@ -1,10 +1,10 @@
 # NetworkProgramming
 ---
 
-Projects
-1. Bookstore online system
-2. Implement FTP client via FileZilla Client
-3. Google search results from web pages : Crawling
+## Projects
+- Bookstore online system
+- Implement FTP client via FileZilla Client
+- Google search results from web pages : Crawling
 
 
 
